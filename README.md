@@ -1,6 +1,6 @@
 # Hi there <img src="./images/image.png" width="30px" style="margin-left:5px;" />
 
-Thank you for visiting my profile, let me know if I can help you with these programming languages.
+Thank you for visiting my profile, let me know if I can help you with these technologies.
 
 ## Core
 
@@ -17,6 +17,7 @@ Thank you for visiting my profile, let me know if I can help you with these prog
 ## Testing
 
 ![My Skills](https://skillicons.dev/icons?i=jest,postman&perline=10)
+<img src="./images/rtl.png" width="48px" style="margin-left:5px;" />
 
 ## Database
 
@@ -29,6 +30,7 @@ Thank you for visiting my profile, let me know if I can help you with these prog
 ## Version Control
 
 ![My Skills](https://skillicons.dev/icons?i=bash,powershell,git,github&perline=10)
+<img src="./images/azure-repos.png" width="45px" style="margin-left:5px;" />
 
 ## Editor
 
@@ -37,9 +39,11 @@ Thank you for visiting my profile, let me know if I can help you with these prog
 ## Operating System
 
 ![My Skills](https://skillicons.dev/icons?i=linux&perline=10)
+<img src="./images/macOS.png" width="45px" style="margin-left:5px;" />
+<img src="./images/windows.png" width="45px" style="margin-left:10px;" />
 
-## Other
+## Design
 
-![My Skills](https://skillicons.dev/icons?i=figma,discord&perline=10)
+![My Skills](https://skillicons.dev/icons?i=figma&perline=10)
 
 I'm happy to code just by me a coffee ☕
