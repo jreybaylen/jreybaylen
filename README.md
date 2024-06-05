@@ -2,6 +2,6 @@
 
 Thank you for visiting my profile, let me know if I can help you with these programming languages.
 
-![My Skills](https://skillicons.dev/icons?i=ts,nodejs,py,swift,rust,java,kotlin,dart,cpp,c,go&perline=11)
+![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,vite,vitest,jest,nodejs,express,mysql,planetscale,postgres,next,vercel,firebase,git,postman,aws,bun,yarn,npm,pnpm,swift,py&perline=10)
 
 I'm happy to help and code just buy me a coffee ☕
